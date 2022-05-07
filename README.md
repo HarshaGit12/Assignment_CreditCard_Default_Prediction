@@ -1,4 +1,4 @@
-# Assignment_CreditCard_Default_Prediction
+# Assignment  - Credit Card Default Prediction
 ### The purpose of this project is to predict the probability of credit default based on credit card owner's characteristics and payment history.
 # Project Overview:
 ### Exploratory Analysis is done to understand how the probability of default payment vary by categories of different demographic variables like Education, Age etc.
